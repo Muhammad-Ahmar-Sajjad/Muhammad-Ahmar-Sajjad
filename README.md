@@ -182,7 +182,7 @@ A C++ application developed using Object-Oriented Programming principles to effi
 
 ### Upcoming Project
 
-This space is reserved for your next software project.
+
 
 **Ideas**
 
