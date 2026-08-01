@@ -1,245 +1,279 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:499A13,100:1a1a1a&height=250&section=header&text=Muhammad%20Ahmar%20Sajjad&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20•%20Computer%20Science%20Student&descAlignY=52&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111111,100:499A13&text=Muhammad%20Ahmar%20Sajjad&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Developer%20|%20Computer%20Science%20Student&descAlignY=58&descSize=18"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=499A13&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Software+Developer;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+C%23;Software+Engineering;OOP+%E2%80%A2+SDLC+%E2%80%A2+DSA;Building+Scalable+Applications;Problem+Solver;Always+Learning;Open+Source+Enthusiast" />
+# Software Developer
+
+Building scalable software with clean architecture, object-oriented design and modern development practices.
+
+<br>
+
+<a href="https://www.linkedin.com/in/m-ahmar-sajjad-882796421">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmar-Sajjad&style=for-the-badge&color=499A13"/>
 
-![Open To Work](https://img.shields.io/badge/OPEN%20TO-Internship%20%26%20Entry--Level%20Roles-499A13?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a1a)
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmar-Sajjad&color=499A13&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1a1a" />
-<img src="https://img.shields.io/github/stars/Muhammad-Ahmar-Sajjad?style=for-the-badge&color=499A13&labelColor=1a1a1a&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Entry%20Level-499A13?style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+# About Me
 
-## 🧑‍💻 About Me
+```ts
+const ahmar = {
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89e70e.gif" width="400">
+    role: "Software Developer",
 
-</div>
+    education: "BS Computer Science",
 
-```typescript
-const MuhammadAhmar = {
-    title              : "Software Developer & Computer Science Student",
-    location           : "Pakistan",
+    location: "Pakistan",
 
-    languages          : ["Python", "C++", "C#", "SQL", "JavaScript", "HTML5", "CSS3"],
-
-    technologies       : [
-        "Object-Oriented Programming (OOP)",
-        "Data Structures & Algorithms",
-        "SDLC",
-        "Git & GitHub",
-        "REST APIs",
-        "Database Design",
-        "Software Testing",
-        "Debugging"
+    languages: [
+        "Python",
+        "C++",
+        "C#",
+        "SQL",
+        "JavaScript",
+        "HTML",
+        "CSS"
     ],
 
-    databases          : ["SQL Server", "MySQL"],
-    tools              : ["Visual Studio", "Visual Studio Code", "Git", "GitHub"],
-    operatingSystems   : ["Windows", "Linux"],
+    databases: [
+        "SQL Server",
+        "MySQL"
+    ],
 
-    currentlyLearning  : [
+    tools: [
+        "Visual Studio",
+        "VS Code",
+        "Git",
+        "GitHub"
+    ],
+
+    currentlyLearning: [
         "Full Stack Development",
         "Software Architecture",
-        "Design Patterns",
         "Cloud Computing",
         "Artificial Intelligence",
         "System Design"
     ],
 
-    interests          : [
-        "Software Engineering", "OOP", "SDLC", "Data Structures & Algorithms",
-        "Design Patterns", "System Design", "Database Management Systems",
-        "Artificial Intelligence", "Machine Learning", "Open Source Development",
-        "Clean Code", "Software Architecture", "Problem Solving"
+    interestedIn: [
+        "Software Engineering",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Clean Code",
+        "Software Testing",
+        "REST APIs",
+        "Design Patterns"
     ],
 
-    status             : "Computer Science Student",
-    openTo             : "Internship & Entry-Level Software Development opportunities"
-} as const;
+    openTo:
+        "Internship & Entry-Level Software Development Opportunities"
+
+}
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
-<br/>
+# Tech Stack
 
 <div align="center">
 
-## ⚡ Technical Skills
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css&perline=6"/>
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
+
+<br><br>
+
+### Operating Systems
+
+<img src="https://skillicons.dev/icons?i=windows,linux"/>
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="100%">
+---
 
-**🔤 Programming Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,sql,js,html,css&theme=dark&perline=7" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🗄️ Databases**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<img src="https://img.shields.io/badge/SQL_Server-499A13?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1a1a1a" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🛠️ Dev Tools & Version Control**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**💻 Operating Systems**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🎯 Core Concepts**
-<br/><br/>
-<img src="https://img.shields.io/badge/OOP-499A13?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-499A13?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/SDLC-499A13?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/REST_APIs-499A13?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Design_Patterns-499A13?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/System_Design-499A13?style=for-the-badge&labelColor=1a1a1a" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<br/>
+# Core Skills
 
 <div align="center">
 
-## 🚀 Featured Projects
+| Software Engineering | Development |
+|:--------------------:|:-----------:|
+| Object-Oriented Programming | REST APIs |
+| Data Structures | Git |
+| Algorithms | GitHub |
+| SDLC | Debugging |
+| Database Design | Software Testing |
+| Design Patterns | Clean Code |
+| System Design | Problem Solving |
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+---
+
+# Currently Learning
+
+<div align="center">
+
+| |
+|:--|
+| Full Stack Development |
+| Software Architecture |
+| Cloud Computing |
+| Artificial Intelligence |
+| Design Patterns |
+| System Design |
+
+</div>
+
+---
+
+# Featured Project
 
 <div align="center">
 
 <a href="https://github.com/Muhammad-Ahmar-Sajjad/Library-Management-System-Cpp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmar-Sajjad&repo=Library-Management-System-Cpp&theme=nord&hide_border=true&bg_color=1a1a1a&title_color=499A13&text_color=c9d1d9&icon_color=499A13" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmar-Sajjad&repo=Library-Management-System-Cpp&theme=transparent&hide_border=true"/>
+
 </a>
 
-**📚 Library Management System**
-<br/>
-<sub>A C++ based library management project.</sub>
+### Library Management System
 
-<br/><br/>
+A C++ application built using Object-Oriented Programming principles for efficient library record management.
 
-| Layer | Technology |
-|:-----:|:----------:|
-| Core Language | ![C++](https://img.shields.io/badge/-499A13?style=flat-square&logo=cplusplus&logoColor=white) C++ |
+| Technology | Description |
+|------------|-------------|
+| Language | C++ |
+| Concepts | OOP, File Handling |
+| Architecture | Modular Design |
 
-<br/>
+**Key Highlights**
 
-**✨ Key Features**
-
-`Library record management` · `Object-oriented implementation` · `Structured C++ design`
-
-<br/>
+- Library Record Management
+- Object-Oriented Architecture
+- Structured Codebase
+- Console Based Application
 
 <a href="https://github.com/Muhammad-Ahmar-Sajjad/Library-Management-System-Cpp">
-  <img src="https://img.shields.io/badge/📂_View_Repository-499A13?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
+
+<img src="https://img.shields.io/badge/View%20Repository-499A13?style=for-the-badge"/>
+
 </a>
 
 </div>
 
-</td>
-</tr>
-</table>
+---
+
+# GitHub Statistics
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmar-Sajjad&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmar-Sajjad&layout=compact&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=Muhammad-Ahmar-Sajjad&theme=transparent&hide_border=true"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmar-Sajjad&theme=github_dark"/>
+
 </div>
 
-<br/>
+---
+
+# Contribution Graph
 
 <div align="center">
 
-## 📊 GitHub Analytics
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmar-Sajjad&theme=github-compact&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmar-Sajjad&show_icons=true&theme=nord&hide_border=true&bg_color=1a1a1a&title_color=499A13&icon_color=499A13&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmar-Sajjad&layout=compact&theme=nord&hide_border=true&bg_color=1a1a1a&title_color=499A13&text_color=c9d1d9" width="49%" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Muhammad-Ahmar-Sajjad&theme=nord&hide_border=true&background=1a1a1a&ring=499A13&fire=499A13&currStreakLabel=499A13" width="49%" />
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmar-Sajjad&theme=nord&no-frame=true&margin-w=10&margin-h=10&column=4" width="80%" />
+# GitHub Achievements
 
-### 🧊 3D Contribution Graph
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmar-Sajjad&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-Sajjad/output/github-contribution-grid-snake-dark.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-Sajjad/output/github-contribution-grid-snake.svg" width="90%">
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-Sajjad/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-Sajjad/output/github-contribution-grid-snake.svg"/>
+
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmar-Sajjad&theme=nord&hide_border=true&bg_color=1a1a1a&color=499A13&line=499A13&point=ffffff" width="90%" />
-
 </div>
 
-<br/>
+---
+
+# Connect
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🤝 Connect With Me
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60">
-
-<br/>
 
 <a href="https://www.linkedin.com/in/m-ahmar-sajjad-882796421">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" height="45" />
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmar-Sajjad&style=for-the-badge&color=499A13"/>
+
+<img src="https://img.shields.io/github/followers/Muhammad-Ahmar-Sajjad?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Muhammad-Ahmar-Sajjad?style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### 💡 *"Building clean code, one commit at a time."*
+## Software Engineering Principles
+
+> Write clean code.  
+> Build scalable systems.  
+> Keep learning.  
+> Ship meaningful software.
+
+<br>
+
+*"Building software with purpose, precision and continuous learning."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:499A13&height=150&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:499A13,100:111111"/>
