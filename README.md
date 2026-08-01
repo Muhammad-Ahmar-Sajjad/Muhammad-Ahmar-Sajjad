@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111111,100:499A13&text=Muhammad%20Ahmar%20Sajjad&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Developer%20|%20Computer%20Science%20Student&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:499A13,100:1a1a1a&text=Muhammad%20Ahmar%20Sajjad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20•%20Computer%20Science%20Student&descAlignY=56&descSize=18"/>
 
-# Software Developer
-
-Building scalable software with clean architecture, object-oriented design and modern development practices.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=499A13&center=true&vCenter=true&width=700&lines=Software+Developer;Python+%7C+C%2B%2B+%7C+C%23;Software+Engineering;Object-Oriented+Programming;Always+Learning"/>
+</a>
 
 <br>
 
@@ -20,193 +20,254 @@ Building scalable software with clean architecture, object-oriented design and m
 
 ---
 
-# About Me
+<div align="center">
 
-```ts
-const ahmar = {
+## Navigation
 
-    role: "Software Developer",
+[About](#about) •
+[Tech Stack](#tech-stack) •
+[Projects](#featured-projects) •
+[GitHub Analytics](#github-analytics) •
+[Connect](#connect)
 
-    education: "BS Computer Science",
-
-    location: "Pakistan",
-
-    languages: [
-        "Python",
-        "C++",
-        "C#",
-        "SQL",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    ],
-
-    databases: [
-        "SQL Server",
-        "MySQL"
-    ],
-
-    tools: [
-        "Visual Studio",
-        "VS Code",
-        "Git",
-        "GitHub"
-    ],
-
-    currentlyLearning: [
-        "Full Stack Development",
-        "Software Architecture",
-        "Cloud Computing",
-        "Artificial Intelligence",
-        "System Design"
-    ],
-
-    interestedIn: [
-        "Software Engineering",
-        "Object-Oriented Programming",
-        "Data Structures",
-        "Algorithms",
-        "Clean Code",
-        "Software Testing",
-        "REST APIs",
-        "Design Patterns"
-    ],
-
-    openTo:
-        "Internship & Entry-Level Software Development Opportunities"
-
-}
-```
+</div>
 
 ---
 
+# About
+
+Software Developer and Computer Science student with a strong interest in building scalable applications using modern software engineering principles.
+
+I enjoy solving real-world problems through clean, maintainable code and continuously improving my skills in software architecture, object-oriented programming, databases, and system design.
+
+Currently focused on expanding my knowledge in Full Stack Development, Artificial Intelligence, Cloud Computing, and Software Architecture while actively seeking internship and entry-level software development opportunities.
+
+| Information | Details |
+|------------|---------|
+| **Role** | Software Developer |
+| **Education** | BS Computer Science |
+| **Location** | Pakistan |
+| **Languages** | Python, C++, C#, SQL, JavaScript, HTML, CSS |
+| **Databases** | SQL Server, MySQL |
+| **Tools** | Visual Studio, VS Code, Git, GitHub |
+| **Currently Learning** | Full Stack Development, Cloud Computing, Artificial Intelligence, System Design |
+| **Interested In** | OOP, DSA, Software Engineering, REST APIs, Clean Code, Design Patterns |
+| **Open To** | Internship & Entry-Level Software Development Opportunities |
+
+---
 # Tech Stack
 
 <div align="center">
 
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css&perline=6"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css&theme=dark&perline=3"/>
 
 <br><br>
 
-### Database
+<img src="https://img.shields.io/badge/SQL_Server-499A13?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1a1a1a"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+</td>
 
-<img src="https://img.shields.io/badge/SQL%20Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<td align="center" width="50%">
 
-<br><br>
+### Databases
 
-### Development Tools
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 
 <br><br>
 
 ### Operating Systems
 
-<img src="https://skillicons.dev/icons?i=windows,linux"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+### Development Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark"/>
+
+<br><br>
+
+---
+
+### Core Technologies
+
+<br>
+
+<img src="https://img.shields.io/badge/Object--Oriented_Programming-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/Data_Structures-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/Algorithms-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/SDLC-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/Database_Design-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/Software_Testing-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/Debugging-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/Clean_Code-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/Design_Patterns-499A13?style=for-the-badge&labelColor=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/System_Design-499A13?style=for-the-badge&labelColor=1a1a1a"/>
 
 </div>
 
 ---
 
-# Core Skills
+# Featured Projects
 
 <div align="center">
 
-| Software Engineering | Development |
-|:--------------------:|:-----------:|
-| Object-Oriented Programming | REST APIs |
-| Data Structures | Git |
-| Algorithms | GitHub |
-| SDLC | Debugging |
-| Database Design | Software Testing |
-| Design Patterns | Clean Code |
-| System Design | Problem Solving |
+<table width="100%">
 
-</div>
+<tr>
 
----
-
-# Currently Learning
-
-<div align="center">
-
-| |
-|:--|
-| Full Stack Development |
-| Software Architecture |
-| Cloud Computing |
-| Artificial Intelligence |
-| Design Patterns |
-| System Design |
-
-</div>
-
----
-
-# Featured Project
-
-<div align="center">
+<td width="50%" valign="top">
 
 <a href="https://github.com/Muhammad-Ahmar-Sajjad/Library-Management-System-Cpp">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmar-Sajjad&repo=Library-Management-System-Cpp&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Ahmar-Sajjad&repo=Library-Management-System-Cpp&theme=github_dark&hide_border=true"/>
 
 </a>
 
 ### Library Management System
 
-A C++ application built using Object-Oriented Programming principles for efficient library record management.
+A C++ application developed using Object-Oriented Programming principles to efficiently manage library records.
 
-| Technology | Description |
-|------------|-------------|
-| Language | C++ |
-| Concepts | OOP, File Handling |
-| Architecture | Modular Design |
+**Tech Stack**
 
-**Key Highlights**
+`C++` `OOP` `File Handling`
+
+**Highlights**
 
 - Library Record Management
-- Object-Oriented Architecture
+- Modular Architecture
 - Structured Codebase
-- Console Based Application
+- Console Application
 
-<a href="https://github.com/Muhammad-Ahmar-Sajjad/Library-Management-System-Cpp">
+</td>
 
-<img src="https://img.shields.io/badge/View%20Repository-499A13?style=for-the-badge"/>
+<td width="50%" valign="top">
 
-</a>
+<img src="https://placehold.co/450x180/1a1a1a/499A13?text=Coming+Soon"/>
+
+### Upcoming Project
+
+This space is reserved for your next software project.
+
+**Ideas**
+
+`Python`
+
+`C#`
+
+`SQL`
+
+`REST API`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/450x180/1a1a1a/499A13?text=Coming+Soon"/>
+
+### Upcoming Project
+
+Future Full Stack or AI project.
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/450x180/1a1a1a/499A13?text=Coming+Soon"/>
+
+### Upcoming Project
+
+Future Open Source contribution.
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# GitHub Statistics
+# Development Focus
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmar-Sajjad&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+| Area | Focus |
+|:----:|:------|
+| Software Engineering | Clean Architecture, SDLC, Design Patterns |
+| Programming | Python, C++, C# |
+| Databases | SQL Server, MySQL |
+| Development | REST APIs, Git, GitHub |
+| Learning | Full Stack Development, AI, Cloud Computing |
+| Goal | Build scalable software and contribute to Open Source |
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmar-Sajjad&layout=compact&theme=transparent&hide_border=true"/>
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmar-Sajjad&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=499A13&icon_color=499A13&text_color=ffffff&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmar-Sajjad&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=499A13&text_color=ffffff"/>
 
 <br><br>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Muhammad-Ahmar-Sajjad&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Muhammad-Ahmar-Sajjad&theme=github-dark-blue&hide_border=true&background=00000000&ring=499A13&fire=499A13&currStreakLabel=499A13&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmar-Sajjad&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ahmar-Sajjad&theme=github_dark"/>
 
 </div>
 
 ---
 
-# Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmar-Sajjad&theme=github-compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmar-Sajjad&theme=github-compact&hide_border=true&bg_color=00000000&color=499A13&line=499A13&point=ffffff"/>
 
 </div>
 
@@ -216,7 +277,7 @@ A C++ application built using Object-Oriented Programming principles for efficie
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmar-Sajjad&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ahmar-Sajjad&theme=algolia&no-frame=true&column=4&margin-w=18&margin-h=18"/>
 
 </div>
 
@@ -228,12 +289,31 @@ A C++ application built using Object-Oriented Programming principles for efficie
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)"
+<source
+media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-Sajjad/output/github-contribution-grid-snake-dark.svg">
 
-<img src="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-Sajjad/output/github-contribution-grid-snake.svg"/>
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-Sajjad/output/github-contribution-grid-snake.svg"/>
 
 </picture>
+
+</div>
+
+---
+
+# GitHub Overview
+
+<div align="center">
+
+| Commits | Languages | Focus |
+|:--------:|:---------:|:-----:|
+| Consistent Learning | Python • C++ • C# | Software Engineering |
+
+| Interests | Current Goal | Status |
+|:---------:|:------------:|:------:|
+| OOP • DSA • AI • System Design | Full Stack Development | Open to Internship |
 
 </div>
 
@@ -244,18 +324,48 @@ srcset="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-S
 <div align="center">
 
 <a href="https://www.linkedin.com/in/m-ahmar-sajjad-882796421">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<a href="https://github.com/Muhammad-Ahmar-Sajjad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmar-Sajjad&style=for-the-badge&color=499A13"/>
 
-<img src="https://img.shields.io/github/followers/Muhammad-Ahmar-Sajjad?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Muhammad-Ahmar-Sajjad?style=for-the-badge&color=499A13&labelColor=1a1a1a"/>
 
-<img src="https://img.shields.io/github/stars/Muhammad-Ahmar-Sajjad?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Muhammad-Ahmar-Sajjad?style=for-the-badge&color=499A13&labelColor=1a1a1a"/>
+
+</div>
+
+---
+
+# Current Focus
+
+<div align="center">
+
+| Area | Current Goal |
+|:----|:-------------|
+| 💻 Software Engineering | Building scalable and maintainable applications |
+| 🌐 Full Stack Development | Expanding backend and frontend expertise |
+| 🤖 Artificial Intelligence | Exploring practical AI applications |
+| ☁️ Cloud Computing | Learning cloud fundamentals |
+| 📚 Open Source | Contributing to meaningful projects |
+
+</div>
+
+---
+
+# Philosophy
+
+<div align="center">
+
+### Clean Code • Continuous Learning • Problem Solving
+
+Software is more than writing code—it's about designing reliable systems, solving meaningful problems, and continuously improving as a developer.
 
 </div>
 
@@ -263,17 +373,12 @@ srcset="https://raw.githubusercontent.com/Muhammad-Ahmar-Sajjad/Muhammad-Ahmar-S
 
 <div align="center">
 
-## Software Engineering Principles
+### Thanks for visiting my profile!
 
-> Write clean code.  
-> Build scalable systems.  
-> Keep learning.  
-> Ship meaningful software.
+If you find my projects interesting, consider following my journey or connecting with me on LinkedIn.
 
-<br>
+<br><br>
 
-*"Building software with purpose, precision and continuous learning."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1a1a1a,100:499A13"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:499A13,100:111111"/>
